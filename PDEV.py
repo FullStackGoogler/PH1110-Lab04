@@ -1,8 +1,8 @@
 #Lab #4 Python Code, ezzhou
 
 #Mass of Cart (kg)
-mCart = 0.4999
-mDEV = 0.0001
+mCart = #mass of cart
+mDEV = 0.0001 #assuming measured with a triple beam balance
 
 #Trial Speed
 speed = #trialSpeed
